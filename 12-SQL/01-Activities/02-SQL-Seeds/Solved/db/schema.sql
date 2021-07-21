@@ -4,7 +4,7 @@ CREATE DATABASE inventory_db;
 USE inventory_db;
 
 CREATE TABLE books(
-  id INTEGER AUTO_INCREMENT PRIMARY KEY NOT NULL,
+  id INTEGER NOT NULL,
   book_name VARCHAR(30) NOT NULL
 );
 
