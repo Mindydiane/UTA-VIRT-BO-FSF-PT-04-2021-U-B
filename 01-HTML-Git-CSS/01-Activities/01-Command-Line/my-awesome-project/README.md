@@ -21,12 +21,20 @@ Using only the command line:
 ## Bonus
 
 * Which command lists all the folders and files in a directory?
+`pwd`
 
 * Which command lists all the hidden folders and files?
+`ls -a`
 
 * How do you move a file or folder?
 
+`git mv index.html public`
+
+` file name -> folder name`
+
 * How would you write to a file without opening it?
+
+` echo "<!DOCTYPE html>" >> filename.html `
 
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
